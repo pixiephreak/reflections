@@ -5,3 +5,8 @@ A .git directory is created, which tracks the commit metadata.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 the staging area track the files form the workign directory which are poised to be added to the git repository...?
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+I can see the file that has been modified.
+ I can see the file that will be pushed. 
