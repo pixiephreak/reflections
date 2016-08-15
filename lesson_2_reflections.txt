@@ -10,3 +10,7 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 I can see the file that has been modified.
  I can see the file that will be pushed. 
+
+ What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+ As mentioned in the video, they can be used to develop expirimental features or make a parallel version of a program script.  
