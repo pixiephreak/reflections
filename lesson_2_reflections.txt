@@ -14,3 +14,12 @@ I can see the file that has been modified.
  What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
  As mentioned in the video, they can be used to develop expirimental features or make a parallel version of a program script.  
+
+ How do the diagrams help you visualize the branch structure?
+
+ When a visual map is created, the unreachable commits become apparent. it also becomes easier to differentiate when and where(on which branch) a change was made. 
+
+ What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+ Merging two branches combines the original script with the new additions and omits parts of the script that hae been deleted. It changes script that is altered by a user. I don't know how it handles conflicting changes. 
+ 
