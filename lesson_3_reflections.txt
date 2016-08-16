@@ -1,1 +1,5 @@
 
+When would you want to use a remote repository rather than keeping all your work local?
+
+Remote repositories are essential in partner coding and also act as a back up of one's local files. Remote repositories are also usefule
+for sharing code or projects with others for their use/review, esp. open source projects. 
