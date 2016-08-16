@@ -23,3 +23,6 @@ I can see the file that has been modified.
 
  Merging two branches combines the original script with the new additions and omits parts of the script that hae been deleted. It changes script that is altered by a user. I don't know how it handles conflicting changes. 
  
+ What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+ Automatic merging makes life easier. However, it can be tricky when changes conflict
